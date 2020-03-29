@@ -28,13 +28,13 @@ export default StyleSheet.create({
     marginBottom: 16,
     marginTop: 48,
     color: '#13131a',
-    fontWeight: 'bold'
+    fontWeight: 'bold',
   },
 
   description: {
     fontSize: 16,
     lineHeight: 24,
-    color: '#737380'
+    color: '#737380',
   },
 
   incidentList: {
@@ -45,7 +45,7 @@ export default StyleSheet.create({
     padding: 24,
     borderRadius: 8,
     backgroundColor: '#FFF',
-    marginBottom: 16
+    marginBottom: 16,
   },
 
   incidentProperty: {
@@ -71,5 +71,5 @@ export default StyleSheet.create({
     color: '#e02041',
     fontSize: 15,
     fontWeight: 'bold',
-  }
+  },
 });
